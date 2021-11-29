@@ -8,8 +8,9 @@ namespace LabaGlinskiy
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Сitizens!");
-            string name = "Laboratornaya";
-            Console.WriteLine("Where you from?!");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Good Job!");
         }
     }
 }
