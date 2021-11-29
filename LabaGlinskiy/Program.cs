@@ -9,6 +9,7 @@ namespace LabaGlinskiy
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Сitizens!");
             string name = "Laboratornaya";
+            Console.WriteLine("Where you from?!");
         }
     }
 }
